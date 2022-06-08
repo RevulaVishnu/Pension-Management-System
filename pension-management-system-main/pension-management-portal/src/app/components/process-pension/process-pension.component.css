@@ -1,0 +1,22 @@
+.break-div{
+    white-space: pre-line;
+}
+
+.table{
+    padding-top: 12rem;
+}
+.text-table-header {
+    color: rgb(55 49 70);
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+.text-table-data {
+    color: rgb(24 20 17);
+    font-size: 2.5rem;
+    font-weight:normal;
+    text-align: center;
+}
+input, button{
+    font-size: 1.5rem;
+}
